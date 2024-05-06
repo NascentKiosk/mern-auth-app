@@ -1,12 +1,11 @@
 import React from 'react'
 
-const Home = () => {
+const KursB = () => {
   return (
     <div>
-        Home
-      
+      Kur
     </div>
   )
 }
 
-export default Home
+export default KursB

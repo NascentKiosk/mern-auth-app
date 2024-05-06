@@ -1,11 +1,11 @@
 import React from 'react'
 
-function About() {
+const KursD = () => {
   return (
     <div>
-      
+      kurd d
     </div>
   )
 }
 
-export default About
+export default KursD
